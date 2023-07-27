@@ -1,5 +1,5 @@
 # My sites
 
-https://coconana9010.github.io/VISST-2023-CAMP/public/index.html
+<link rel="canonical" href="https://coconana9010.github.io/VISST-2023-CAMP/public/index.html" />
 
-https://coconana9010.github.io/VISST-2023-CAMP/public/Blurp
+<link rel="canonical" href="https://coconana9010.github.io/VISST-2023-CAMP/public/blurp" />
